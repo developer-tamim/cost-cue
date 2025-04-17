@@ -10,7 +10,7 @@
   <script>
   import Header from './Component/Header.vue';
   import Sidebar from './Component/Sidebar.vue';
-  import MainContent from './Component/MainContent.vue';
+  import MainContent from './Component/Pages/MainContent.vue';
 
   export default {
     components: {

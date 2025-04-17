@@ -38,7 +38,7 @@
                                                 </div>
                                             </div>
                                             <div class="col-5 align-self-end">
-                                                <img src="assets/images/profile-img.png" alt="" class="img-fluid">
+                                                <img src="../../../assets//images/profile-img.png" alt="" class="img-fluid">
                                             </div>
                                         </div>
                                     </div>
@@ -46,7 +46,7 @@
                                         <div class="row">
                                             <div class="col-sm-4">
                                                 <div class="avatar-md profile-user-wid mb-4">
-                                                    <img src="assets/images/users/avatar-1.jpg" alt="" class="img-thumbnail rounded-circle">
+                                                    <img src="../../../assets//images/users/avatar-1.jpg" alt="" class="img-thumbnail rounded-circle">
                                                 </div>
                                                 <h5 class="font-size-15 text-truncate">Henry Price</h5>
                                                 <p class="text-muted mb-0 text-truncate">UI/UX Designer</p>
@@ -586,7 +586,7 @@
                 <!-- End Page-content -->
 
                 <!-- Transaction Modal -->
-                <div class="modal fade transaction-detailModal" tabindex="-1" role="dialog" aria-labelledby="transaction-detailModalLabel" aria-hidden="true">
+                <!-- <div class="modal fade transaction-detailModal" tabindex="-1" role="dialog" aria-labelledby="transaction-detailModalLabel" aria-hidden="true">
                     <div class="modal-dialog modal-dialog-centered" role="document">
                         <div class="modal-content">
                             <div class="modal-header">
@@ -668,11 +668,11 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> -->
                 <!-- end modal -->
 
                 <!-- subscribeModal -->
-                <div class="modal fade" id="subscribeModal" tabindex="-1" aria-labelledby="subscribeModalLabel" aria-hidden="true">
+                <!-- <div class="modal fade" id="subscribeModal" tabindex="-1" aria-labelledby="subscribeModalLabel" aria-hidden="true">
                     <div class="modal-dialog modal-dialog-centered">
                         <div class="modal-content">
                             <div class="modal-header border-bottom-0">
@@ -706,9 +706,10 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> -->
                 <!-- end modal -->
 
+                <!-- footer -->
                 <!-- <footer class="footer">
                     <div class="container-fluid">
                         <div class="row">
@@ -723,6 +724,7 @@
                         </div>
                     </div>
                 </footer> -->
+                <!-- end footer -->
             </div>
             <!-- end main content-->
   </template>
