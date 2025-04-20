@@ -7,24 +7,24 @@
           <div class="navbar-brand-box">
             <a href="index.html" class="logo logo-dark">
               <span class="logo-sm">
-                <img src="assets/images/logo.svg" alt="" height="22">
+                <img src="../../assets/images/logo.svg" alt="" height="22">
               </span>
               <span class="logo-lg">
-                <img src="assets/images/logo-dark.png" alt="" height="17">
+                <img src="../../assets/images/logo-dark.png" alt="" height="17">
               </span>
             </a>
 
             <a href="index.html" class="logo logo-light">
               <span class="logo-sm">
-                <img src="assets/images/logo-light.svg" alt="" height="22">
+                <img src="../../assets/images/logo-light.svg" alt="" height="22">
               </span>
               <span class="logo-lg">
-                <img src="assets/images/logo-light.png" alt="" height="19">
+                <img src="../../assets/images/logo-light.png" alt="" height="19">
               </span>
             </a>
           </div>
 
-          <button type="button" class="btn btn-sm px-3 font-size-16 header-item waves-effect" id="vertical-menu-btn">
+          <button type="button" class="px-3 btn btn-sm font-size-16 header-item waves-effect" id="vertical-menu-btn">
             <i class="fa fa-fw fa-bars"></i>
           </button>
 
@@ -158,7 +158,7 @@
 
                             <div class="col-sm-5">
                                 <div>
-                                    <img src="assets/images/megamenu-img.png" alt="" class="img-fluid mx-auto d-block">
+                                    <img src="assets/images/megamenu-img.png" alt="" class="mx-auto img-fluid d-block">
                                 </div>
                             </div>
                         </div>
@@ -176,11 +176,11 @@
             data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                 <i class="mdi mdi-magnify"></i>
             </button>
-            <div class="dropdown-menu dropdown-menu-lg dropdown-menu-end p-0"
+            <div class="p-0 dropdown-menu dropdown-menu-lg dropdown-menu-end"
                 aria-labelledby="page-header-search-dropdown">
 
                 <form class="p-3">
-                    <div class="form-group m-0">
+                    <div class="m-0 form-group">
                         <div class="input-group">
                             <input type="text" class="form-control" placeholder="Search ..." aria-label="Recipient's username">
                             <div class="input-group-append">
@@ -289,7 +289,7 @@
                 <i class="bx bx-bell bx-tada"></i>
                 <span class="badge bg-danger rounded-pill">3</span>
             </button>
-            <div class="dropdown-menu dropdown-menu-lg dropdown-menu-end p-0"
+            <div class="p-0 dropdown-menu dropdown-menu-lg dropdown-menu-end"
                 aria-labelledby="page-header-notifications-dropdown">
                 <div class="p-3">
                     <div class="row align-items-center">
@@ -363,7 +363,7 @@
                     </a>
                 </div>
                 <div class="p-2 border-top d-grid">
-                    <a class="btn btn-sm btn-link font-size-14 text-center" href="javascript:void(0)">
+                    <a class="text-center btn btn-sm btn-link font-size-14" href="javascript:void(0)">
                         <i class="mdi mdi-arrow-right-circle me-1"></i> <span key="t-view-more">View More..</span>
                     </a>
                 </div>
@@ -380,12 +380,12 @@
             </button>
             <div class="dropdown-menu dropdown-menu-end">
                 <!-- item-->
-                <a class="dropdown-item" href="#"><i class="bx bx-user font-size-16 align-middle me-1"></i> <span key="t-profile">Profile</span></a>
-                <a class="dropdown-item" href="#"><i class="bx bx-wallet font-size-16 align-middle me-1"></i> <span key="t-my-wallet">My Wallet</span></a>
-                <a class="dropdown-item d-block" href="#"><span class="badge bg-success float-end">11</span><i class="bx bx-wrench font-size-16 align-middle me-1"></i> <span key="t-settings">Settings</span></a>
-                <a class="dropdown-item" href="#"><i class="bx bx-lock-open font-size-16 align-middle me-1"></i> <span key="t-lock-screen">Lock screen</span></a>
+                <a class="dropdown-item" href="#"><i class="align-middle bx bx-user font-size-16 me-1"></i> <span key="t-profile">Profile</span></a>
+                <a class="dropdown-item" href="#"><i class="align-middle bx bx-wallet font-size-16 me-1"></i> <span key="t-my-wallet">My Wallet</span></a>
+                <a class="dropdown-item d-block" href="#"><span class="badge bg-success float-end">11</span><i class="align-middle bx bx-wrench font-size-16 me-1"></i> <span key="t-settings">Settings</span></a>
+                <a class="dropdown-item" href="#"><i class="align-middle bx bx-lock-open font-size-16 me-1"></i> <span key="t-lock-screen">Lock screen</span></a>
                 <div class="dropdown-divider"></div>
-                <a class="dropdown-item text-danger" href="#"><i class="bx bx-power-off font-size-16 align-middle me-1 text-danger"></i> <span key="t-logout">Logout</span></a>
+                <a class="dropdown-item text-danger" href="#"><i class="align-middle bx bx-power-off font-size-16 me-1 text-danger"></i> <span key="t-logout">Logout</span></a>
             </div>
         </div>
 
