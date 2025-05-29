@@ -758,3 +758,147 @@
 #14 D:\\Projects\\cost-cue\\artisan(13): Illuminate\\Foundation\\Application->handleCommand(Object(Symfony\\Component\\Console\\Input\\ArgvInput))
 #15 {main}
 "} 
+[2025-05-29 05:33:37] local.ERROR: Uncaught ReflectionException: Class "App\Policies\CustomerPolicy" does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Cu...')
+#1 [internal function]: {closure}('App\\Policies\\Cu...', 'App\\Models\\Cust...')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class \"App\\Policies\\CustomerPolicy\" does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Cu...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Cu...', 'App\\\\Models\\\\Cust...')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2025-05-29 05:34:37] local.ERROR: Uncaught ReflectionException: Class "App\Policies\CustomerPolicy" does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Cu...')
+#1 [internal function]: {closure}('App\\Policies\\Cu...', 'App\\Models\\Cust...')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class \"App\\Policies\\CustomerPolicy\" does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Cu...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Cu...', 'App\\\\Models\\\\Cust...')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2025-05-29 05:35:37] local.ERROR: Uncaught ReflectionException: Class "App\Policies\CustomerPolicy" does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Cu...')
+#1 [internal function]: {closure}('App\\Policies\\Cu...', 'App\\Models\\Cust...')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class \"App\\Policies\\CustomerPolicy\" does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Cu...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Cu...', 'App\\\\Models\\\\Cust...')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2025-05-29 05:36:37] local.ERROR: Uncaught ReflectionException: Class "App\Policies\CustomerPolicy" does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Cu...')
+#1 [internal function]: {closure}('App\\Policies\\Cu...', 'App\\Models\\Cust...')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class \"App\\Policies\\CustomerPolicy\" does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Cu...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Cu...', 'App\\\\Models\\\\Cust...')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2025-05-29 05:37:37] local.ERROR: Uncaught ReflectionException: Class "App\Policies\CustomerPolicy" does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Cu...')
+#1 [internal function]: {closure}('App\\Policies\\Cu...', 'App\\Models\\Cust...')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class \"App\\Policies\\CustomerPolicy\" does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Cu...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Cu...', 'App\\\\Models\\\\Cust...')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2025-05-29 05:38:37] local.ERROR: Uncaught ReflectionException: Class "App\Policies\CustomerPolicy" does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Cu...')
+#1 [internal function]: {closure}('App\\Policies\\Cu...', 'App\\Models\\Cust...')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class \"App\\Policies\\CustomerPolicy\" does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Cu...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Cu...', 'App\\\\Models\\\\Cust...')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2025-05-29 05:39:37] local.ERROR: Uncaught ReflectionException: Class "App\Policies\CustomerPolicy" does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Cu...')
+#1 [internal function]: {closure}('App\\Policies\\Cu...', 'App\\Models\\Cust...')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class \"App\\Policies\\CustomerPolicy\" does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Cu...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Cu...', 'App\\\\Models\\\\Cust...')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2025-05-29 05:40:37] local.ERROR: Uncaught ReflectionException: Class "App\Policies\CustomerPolicy" does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Cu...')
+#1 [internal function]: {closure}('App\\Policies\\Cu...', 'App\\Models\\Cust...')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class \"App\\Policies\\CustomerPolicy\" does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Cu...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Cu...', 'App\\\\Models\\\\Cust...')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2025-05-29 05:41:37] local.ERROR: Uncaught ReflectionException: Class "App\Policies\CustomerPolicy" does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Cu...')
+#1 [internal function]: {closure}('App\\Policies\\Cu...', 'App\\Models\\Cust...')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class \"App\\Policies\\CustomerPolicy\" does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Cu...')
+#1 [internal function]: {closure}('App\\\\Policies\\\\Cu...', 'App\\\\Models\\\\Cust...')
+#2 Command line code(1): array_map(Object(Closure), Array, Array)
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
